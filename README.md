@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=swathi014&icon=0&color=0)](https://visitcount.itsvg.in)
 
 #  About Me: <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/11421259/screenshots/19887158/media/4dd102731074778702c4aa544dfaff34.gif">
- Motivated Data Scientist with well knowledge in data analysis, visualization, and predictive modeling, experienced in web development and SEO.<br><br>Proven ability to analyze complex datasets and derive actionable insights to drive business performance and growth.<br><br> Ask me about Python, Numpy, Pandas, Matplotlib, Seaborn, Deep Learning Techniques and model creation.<br><br> How to reach me swathiiipk@gmail.com<br><br>
+ Motivated Data Scientist with well knowledge in data analysis, visualization, and predictive modeling, experienced in web development and SEO.<br><br>Proven ability to analyze complex datasets and derive actionable insights to drive business performance and growth.<br><br> Ask me about Python, Numpy, Pandas, Matplotlib, Seaborn, Deep Learning Techniques and model creation.<br><br> How to reach me swathiiipk2001@gmail.com<br><br>
 
 
 
